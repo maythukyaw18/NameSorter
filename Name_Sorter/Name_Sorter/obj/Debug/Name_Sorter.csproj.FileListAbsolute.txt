@@ -1,0 +1,6 @@
+/Users/maythukyaw/Projects/Name_Sorter/Name_Sorter/bin/Debug/Name_Sorter.exe
+/Users/maythukyaw/Projects/Name_Sorter/Name_Sorter/bin/Debug/Name_Sorter.pdb
+/Users/maythukyaw/Projects/Name_Sorter/Name_Sorter/obj/Debug/Name_Sorter.csprojAssemblyReference.cache
+/Users/maythukyaw/Projects/Name_Sorter/Name_Sorter/obj/Debug/Name_Sorter.csproj.CoreCompileInputs.cache
+/Users/maythukyaw/Projects/Name_Sorter/Name_Sorter/obj/Debug/Name_Sorter.exe
+/Users/maythukyaw/Projects/Name_Sorter/Name_Sorter/obj/Debug/Name_Sorter.pdb
