@@ -58,13 +58,13 @@ namespace Name_Sorter
             return sorted_names;
         }
 
-        //Write the sorted names to .txt file
+        //Write the sorted names to sorted_names_list.txt file
         public static void WriteNames(IEnumerable<Name> sorted_names) {
 
             try
             {
                 //Fill the file path where sorted_names.txt will be exported
-                StreamWriter sw = new StreamWriter("/Users/maythukyaw/Projects/Name_Sorter/sorted_names.txt");
+                StreamWriter sw = new StreamWriter("/Users/maythukyaw/Projects/Name_Sorter/sorted_names_list.txt");
 
                 foreach(var name in sorted_names)
                 {
